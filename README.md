@@ -13,7 +13,10 @@ Este proyecto es una aplicación web de reservas para una clínica de psicologí
 
 Sigue estos pasos para instalar y ejecutar el proyecto en tu servidor local o en producción.
 
-### 1. Clonar el proyecto en el directorio httpdocs
+### 1. Clonar el proyecto en el directorio httpdocs.
+
+git clone https://github.com/ik3rurru/citas
+cd Citas
 
 ubicar archivos del ptoyecto en un servidor
 
